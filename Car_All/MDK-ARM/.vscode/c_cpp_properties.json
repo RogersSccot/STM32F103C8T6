@@ -3,16 +3,16 @@
         {
             "name": "My_Demo",
             "includePath": [
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\Core\\Inc",
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\MDK-ARM",
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\Core\\Inc",
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\Drivers\\CMSIS\\Include",
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\MDK-ARM",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\Core\\Src",
-                "c:\\Users\\SaLuo\\Desktop\\Local\\My_Demo\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\Core\\Src",
+                "c:\\Parallel_World\\BaiduSyncdisk\\My_World\\Software_World\\STM32\\STM32F103C8T6\\Car_All\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

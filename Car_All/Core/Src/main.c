@@ -148,13 +148,18 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+    
+    // Think about ChengDong Yu, Think about Jun Lei, Think about every pioneer
+    // Every thing will past; drop the burden
+    // Think positively; just keep the most important
+    // Take Action!
+
     // print something to debug
 
     HAL_Delay(10);
 
     // printf("pulse4_1: %d\r\n", pulse4_1);
-    // printf("tick_time: %d\r\n", tick_time);
-
+    // printf("tick_time: %d\r\n", tick_time); 
 
     printf("%f,%f,%f,%f,%f\r\n", 
     
