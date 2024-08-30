@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"tc_tower\startup_stm32f103xb.o"
+"tc_tower\mymain.o"
+"tc_tower\main.o"
+"tc_tower\gpio.o"
+"tc_tower\dma.o"
+"tc_tower\usart.o"
+"tc_tower\stm32f1xx_it.o"
+"tc_tower\stm32f1xx_hal_msp.o"
+"tc_tower\stm32f1xx_hal_gpio_ex.o"
+"tc_tower\stm32f1xx_hal_tim.o"
+"tc_tower\stm32f1xx_hal_tim_ex.o"
+"tc_tower\stm32f1xx_hal_uart.o"
+"tc_tower\stm32f1xx_hal.o"
+"tc_tower\stm32f1xx_hal_rcc.o"
+"tc_tower\stm32f1xx_hal_rcc_ex.o"
+"tc_tower\stm32f1xx_hal_gpio.o"
+"tc_tower\stm32f1xx_hal_dma.o"
+"tc_tower\stm32f1xx_hal_cortex.o"
+"tc_tower\stm32f1xx_hal_pwr.o"
+"tc_tower\stm32f1xx_hal_flash.o"
+"tc_tower\stm32f1xx_hal_flash_ex.o"
+"tc_tower\stm32f1xx_hal_exti.o"
+"tc_tower\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "TC_Tower\TC_Tower.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "TC_Tower.map" -o TC_Tower\TC_Tower.axf

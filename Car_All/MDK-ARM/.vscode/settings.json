@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "uart.h": "c",
+        "main.h": "c",
+        "mymain.h": "c",
+        "stm32f1xx_hal_dma.h": "c",
+        "stm32f1xx_it.h": "c",
+        "tim.h": "c",
+        "encode.h": "c",
+        "time.h": "c",
+        "dma.h": "c",
+        "gpio.h": "c",
+        "motor.h": "c",
+        "stm32f1xx.h": "c",
+        "pid.h": "c"
+    }
+}
